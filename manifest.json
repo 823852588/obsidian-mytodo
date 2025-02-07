@@ -1,0 +1,10 @@
+{
+	"id": "my-todo-plugin",
+	"name": "My Todo Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A plugin to manage todos with due dates in Obsidian.",
+	"author": "浪里小白龙",
+	"authorUrl": "https://yourwebsite.com",
+	"isDesktopOnly": false
+  }
