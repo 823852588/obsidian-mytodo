@@ -16,7 +16,7 @@
 
 或者，你也可以通过 Git 安装该插件：
 
-git clone https://github.com/823852588/obsidian-Mtodo.git
+git clone https://github.com/823852588/obsidian-mytodo.git
 
 ## 配置
 
